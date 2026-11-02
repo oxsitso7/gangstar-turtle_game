@@ -1,2 +1,2 @@
 # gangstar-turtle_game
-a game where you live in the hood and shoot ops
+a game where you spawn as a turtle and shoot enemy turtles.
